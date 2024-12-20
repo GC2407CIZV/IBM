@@ -119,5 +119,3 @@ The **K-Nearest Neighbors (KNN)** model outperformed others with an **accuracy o
 - **SpaceX** for their trailblazing work in space exploration.
 
 ---
-
-This version uses engaging headers, emojis, and sections that create a more readable and approachable layout. The markdown structure has been enhanced with visual cues like bullet points, lists, and clear separation of sections, helping the reader quickly digest the key elements of the project.
